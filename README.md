@@ -1,4 +1,4 @@
-# SPam Filter 
+# Spam Filter 
 
 Spam Filter Project 
 
