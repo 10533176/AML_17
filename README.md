@@ -26,8 +26,9 @@ Anaconda
 By simply following the steps in the spamfilter_notebook.ipynb you can perform all the tests. 
 
 To run the notebook from command line: 
+
 ```
-Jupyter notebook name_of_notebook
+Jupyter notebook spamfilter_notebook.ipynb
 ```
 
 ## License
